@@ -1,0 +1,21 @@
+*{
+  background-color: ;
+}
+
+ol,li{
+  background-color: aquamarine;
+}
+
+table{
+  background-color:rgb(147, 18, 18);
+  border-style: dashed;
+  padding: 5px;
+  color: white;
+}
+form{
+  border: 5px;
+  border-color: black;
+  padding: 5px;
+  background-color: aquamarine;
+  
+}
